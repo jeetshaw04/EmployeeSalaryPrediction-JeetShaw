@@ -50,19 +50,38 @@ Input employee details in a form to get instant salary classification and predic
 
 📊 Dataset
 
-The dataset includes employee-related attributes such as:
+The dataset includes employee-related attributes from the UCI Adult Census Dataset, which contains over 48,000 instances with 14 attributes.
+ These attributes include:
 
-Education
+age: Age of the individual.
 
-Experience
+workclass: Type of employer (e.g., Private, Self-emp-not-inc, Federal-gov).
 
-Domain/Job Role
+fnlwgt: Final weight (census-specific, represents the number of people the census believes the entry represents).
 
-Location
+education: Highest level of education achieved (e.g., Bachelors, HS-grad, Some-college).
 
-Gender
+educational-num: Numerical representation of education level.
 
-Salary classification label (<=50K or >50K)
+marital-status: Marital status (e.g., Married-civ-spouse, Never-married, Divorced).
+
+occupation: Type of occupation (e.g., Tech-support, Craft-repair, Exec-managerial).
+
+relationship: Relationship within the household (e.g., Husband, Own-child, Not-in-family).
+
+race: Race of the individual (e.g., White, Black, Asian-Pac-Islander).
+
+gender: Gender of the individual (Male, Female).
+
+capital-gain: Capital gains from investments.
+
+capital-loss: Capital losses from investments.
+
+hours-per-week: Number of hours worked per week.
+
+native-country: Country of origin.
+
+income:  Salary classification label (<=50K or >50K)
 
 
 The data was preprocessed by handling missing values, encoding categorical variables, and splitting into training/testing sets.
@@ -130,7 +149,6 @@ Final model: Gradient Boosting Classifier
 
 Developed by Jeet Shaw
 B. P. Poddar Institute of Management & Technology
-🎓 CSE Department | AICTE ID: STU68346e0bbbb6b1748266507
 
 
 ---
@@ -153,7 +171,3 @@ Requirements to run the colab file :-
 3)rp.jpg background image file                                      
   
 All are attached in this github file                                            
-
-Link for Webpage -                           
-
-https://38e6ada1707a.ngrok-free.app
