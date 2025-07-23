@@ -146,20 +146,6 @@ Gradient Boosting	86.78% ✅
 Final model: Gradient Boosting Classifier
 
 
----
-
-🤝 Contribution
-
-Developed by Jeet Shaw
-B. P. Poddar Institute of Management & Technology
-
-
----
-
-📄 License
-
-This project is licensed under the MIT License.
-
 
 ---
 
@@ -173,4 +159,11 @@ Requirements to run the colab file :-
 
 3)rp.jpg background image file                                      
   
-All are attached in this github file                                            
+All are attached in this github file        
+--------------------------------------
+
+
+🤝 Contribution
+
+Developed by Jeet Shaw
+B. P. Poddar Institute of Management & Technology
