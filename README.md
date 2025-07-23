@@ -2,7 +2,7 @@
 
 💼 Employee Salary Prediction 
 
-WEBPAGE URL- https://employeesalaryprediction-jeetshaw04.streamlit.app/
+Live Deployed Webpage Url- https://employeesalaryprediction-jeetshaw04.streamlit.app/
 
 
 🔍 Project Overview
@@ -166,4 +166,6 @@ All are attached in this github file
 🤝 Contribution
 
 Developed by Jeet Shaw
+
+
 B. P. Poddar Institute of Management & Technology
