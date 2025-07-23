@@ -2,7 +2,7 @@
 
 💼 Employee Salary Prediction 
 
-Webpage Url - https://employeesalaryprediction-jeetshaw04.streamlit.app/
+WEBPAGE URL- https://employeesalaryprediction-jeetshaw04.streamlit.app/
 
 
 🔍 Project Overview
